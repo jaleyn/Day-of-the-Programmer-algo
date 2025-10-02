@@ -1,1 +1,1 @@
-# Day-of-the-Programmer-algo
+# Day-of-the-Programmer-algo The program finds the exact date of the 256th day the Day of the Programmer for a given year in Russia, correctly handling Julian years, Gregorian years, and the special transition year 1918.
